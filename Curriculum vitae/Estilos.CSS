@@ -1,0 +1,30 @@
+
+body{
+	background-color: #55eeff;
+}
+img{
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+}
+#Encabezado{
+left: 45%;
+position: relative;
+}
+#DatosDeContacto{
+	margin-left: 20px;
+}
+#CompetenciasYHabilidades{
+	margin-left: 20px;
+}
+#Idiomas{
+	margin-left: 20px;
+}
+#ExperienciaProfesional{
+	left: 45%;
+	position: relative;
+}
+#Formación{
+	left: 45%;
+	position: relative;
+}
